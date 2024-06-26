@@ -1,0 +1,371 @@
+.header{
+    display: flex;
+    align-items:center;
+    border-bottom: solid white;
+    width: 100%;
+    
+    
+    
+}
+
+.ull{
+    display: flex;
+    margin-right: 40%;
+    
+}
+
+.menu{
+
+    display:flex;
+    align-items:center;
+    list-style: none;
+    justify-content: end;
+    
+}
+
+.imp {
+    display: flex;
+    align-items:center;padding-left: 55%;
+}
+
+.menu_li{
+    margin-left: 5px;
+    margin-right: 5px; 
+    text-decoration: none;
+    padding-top: 12px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 10px;
+    
+
+    
+}
+.menu_main{
+    display:flex;
+    margin: none;
+    padding-bottom: 15px;
+    
+}
+
+
+.plbut{
+    background-color: rgb(255, 255, 255);
+    display:flex;
+    width: 150px;
+    height: 50px;
+    margin-right: 14px;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: center;
+    
+}
+.plbut:hover{
+background-color: rgb(130, 159, 165);
+}
+
+.p1{
+
+    width: 15px;
+    height: 15px;
+    
+
+}
+
+.buts{
+    display: flex;
+    margin-bottom: 50px;
+
+}
+
+.kst{
+    width: 25%;
+    
+}
+
+.zh1{
+     
+    font-size: 80px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    color: white;
+}
+
+body{
+    margin-left: 30px;
+    background-color: #1a293eff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.play{
+    color: #1a293eff;
+}
+
+.z1{
+    font-style: bold;
+    font-size: 30px;
+    color: white;
+}
+
+.inf{
+    color: slategrey;
+    font-size:medium;
+    color: white;
+}
+
+.fotki{
+    width: 70%;
+    margin-top: 30px;
+
+    
+}
+
+
+
+
+  
+
+.obsh{
+    justify-content: space-between;
+    display:flex ;
+    width:100%;
+}
+
+.fniz{
+    display: flex;
+    width: 100%;
+    margin-top: 30px;
+    padding-bottom: 30px;
+}
+
+.fnf{
+    width: 294px;
+    
+    
+}
+
+.women-i-senya{
+    width: 100%;
+    
+    
+}
+
+.zh2{
+    font-size: 30px;
+    color: white;
+}
+
+.aa{
+    text-decoration: none;
+    color: white;
+    
+}
+
+.IMGG{
+        height: 100px;
+        width: 100px;
+        margin-right: 10px;
+        
+        
+}
+
+.inftxt{
+    color: white;
+
+}
+
+p{
+    color: white;
+
+}
+
+span{
+    color: white;
+}
+
+.news{
+    list-style: none;
+    display:block ;
+    padding: 0px;
+    
+}
+
+.a{
+    text-decoration: none;
+    color: white;
+    border-bottom: solid 1px white;
+}
+
+
+
+.imggg{
+    height: 100px;
+    width: 100px;
+}
+
+.zxczxc111{
+    display: flex;
+    width: 100%;
+    
+    
+
+}
+
+h3{
+    color: white;
+}
+
+
+
+
+.opi{
+    font-size: small;
+    text-decoration: none;
+
+}
+
+.eru{
+    border-bottom: solid white;
+}
+
+.hh3{
+    padding-left: 20px;
+}
+
+
+.footer{
+    display: flex;
+    align-items:center;
+    border-top: solid white;
+    width: 100%;
+    margin-top: 30px;
+    
+    
+    
+}
+
+.menu_l1{
+    padding: 20px; 
+    text-decoration: none;
+    background-color: rgb(100, 146, 156); 
+}
+
+.menu_l2{
+    padding: 20px; 
+    text-decoration: none; 
+    background-color: rgb(115, 153, 161);
+}
+
+.menu_l3{
+    padding: 20px; 
+    text-decoration: none; 
+    background-color: rgb(130, 159, 165);
+}
+
+.menu_l4{
+    padding: 20px; 
+    text-decoration: none;
+    background-color: rgb(145, 163, 167); 
+}
+
+.menu_l5{
+    padding: 20px; 
+    text-decoration: none; 
+    background-color: rgb(160, 168, 170);
+}
+
+.achit{
+    text-decoration: underline;
+    color: white;
+}
+
+.menuf{
+
+    display:flex;
+    align-items:center;
+    list-style: none;
+    justify-content: end;
+    
+}
+
+.ull2{
+    display: flex;
+    margin-right: 75%;
+    
+}
+
+.menu_li:hover{
+    background-color: rgb(42, 68, 102);
+}
+
+.achit:hover{
+    color: rgb(42, 68, 102);
+}
+
+.ale{
+    display: block;
+    width: 586.52px;
+    
+}
+
+.a:hover{
+    color: rgb(42, 68, 102);
+}
+
+.menu_l1:hover{
+
+    background-color: rgb(133, 194, 207);
+
+}
+
+.menu_l2:hover{
+    background-color: rgb(149, 196, 206);
+}
+
+.menu_l3:hover{
+    background-color: rgb(159, 191, 197);
+}
+
+.menu_l4:hover{
+    background-color: rgb(176, 195, 199);
+}
+
+.menu_l5:hover{
+    background-color: rgb(190, 200, 202);
+}
+
+
+.vp{
+    display: flex;
+    width: 294px;
+    margin-right:20px;
+   
+}
+
+.pbtn{
+    height: 60px; position: absolute; margin-left: -190px; margin-top: 50px;
+    visibility: hidden;
+    
+}
+
+.hover{
+    width: 294px;
+    height:164.92px ;
+    position: absolute;
+    background-image: url(1.png);
+    opacity: 0%;
+    margin-left: -294px;
+    
+}
+
+.hover:hover{
+    opacity: 100%;
+    
+}
+
+
+
+
+
+
+
